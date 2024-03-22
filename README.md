@@ -17,7 +17,7 @@ Bugs
 Authors
 License
 Environment
-This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+This project is interpreted/tested on Ubuntu 20.04 LTS using python3 (version 3.4.3)
 
 Installation
 Clone this repository: git clone "https://github.com/softontechsolution/AirBnB_clone.git"
